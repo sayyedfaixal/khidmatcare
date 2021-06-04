@@ -1,0 +1,103 @@
+#button {
+    background: #FFDE59;
+    background-image: -webkit-linear-gradient(top, #FFDE59, #FFDE59);
+    background-image: -moz-linear-gradient(top, #FFDE59, #FFDE59);
+    background-image: -ms-linear-gradient(top, #FFDE59, #FFDE59);
+    background-image: -o-linear-gradient(top, #FFDE59, #FFDE59);
+    background-image: linear-gradient(to bottom, #FFDE59, #FFDE59);
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 5px #F29089;
+    -moz-box-shadow: 5px 5px 5px #F29089;
+    box-shadow: 5px 5px 3px #F29089;
+    font-family: Georgia;
+    color: 046483;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+  }
+.floatRight{
+    float: left;
+    margin-right: 10px;
+    position: static;
+}
+
+.container{
+    margin-top: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Button */
+
+.name{
+    color: #EB602D;
+    font-weight: 20px;
+}
+.bg-color{
+    background-color: #046483;
+}
+.donate-now{
+    color:#046483
+}
+.AboutUs{
+    color: #FFDE59;
+    padding-left: 550px;
+}
+/* Header ContactUs */
+.ContactUs{
+    color: #FFDE59;
+}
+
+/* .food-logo{
+    margin-top: 100px;
+    position: static;
+}
+.food-logo-1{
+    padding-left: 100px;
+    margin-right: 110px;
+} */
+#img1{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img2{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#map{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details{
+    color:#FFDE59;
+}
+.footer-section{
+    background-color: #046483;
+}
+.footer-name{
+    color: #EB602D;
+    font-size: 1.25rem;
+}
+
+.copyright{
+    background-color: #FFDE59;
+}
+
+.reach-marg{
+    background-color: #FFDE59;
+}
+.justified{
+    text-align: justify;
+}
