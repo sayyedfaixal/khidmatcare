@@ -1,3 +1,7 @@
+$('#myModal').on('shown.bs.modal', function () {
+    $('#myInput').trigger('focus')
+  })
+
 var state = document.querySelector("#states");
 var house = document.querySelector("#house");
 var people = document.querySelector("#people");

@@ -45,19 +45,12 @@
     color: #FFDE59;
     padding-left: 550px;
 }
+
 /* Header ContactUs */
 .ContactUs{
     color: #FFDE59;
 }
 
-/* .food-logo{
-    margin-top: 100px;
-    position: static;
-}
-.food-logo-1{
-    padding-left: 100px;
-    margin-right: 110px;
-} */
 #img1{
     max-width: 100%;
     height: auto;
@@ -100,4 +93,8 @@
 }
 .justified{
     text-align: justify;
+}
+#exampleModalLongTitle{
+    color: #046483;
+    background-color: #FFDE59;
 }
